@@ -5,6 +5,8 @@ https://docs.google.com/presentation/d/1LIZRi994vRbKxlD-TyFnsfUwzZlc-xQnQBR6BxSZ
 ## Medium
 https://medium.com/furuhashilab/%E6%A8%AA%E7%80%AC%E7%94%BA%E3%81%AE%E6%94%BE%E5%B0%84%E7%B7%9A%E9%87%8F%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0-safecast-9e7e29018262
 ## グラレコ
+![image](https://user-images.githubusercontent.com/62372057/141795418-62af65b0-ed5e-42ea-b342-fbfbb9ac70e6.png)
+
 ## プロジェクト
 https://github.com/furuhashilab/sotsuron2021/projects/24
 ## 参考文献
