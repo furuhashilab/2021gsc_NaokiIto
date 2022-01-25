@@ -1,4 +1,9 @@
 # 2021gsc_NaokiIto
+## Introduction
+## Method
+## Result
+## Discussion
+
 ## 中間発表スライド
 https://docs.google.com/presentation/d/1LIZRi994vRbKxlD-TyFnsfUwzZlc-xQnQBR6BxSZlow/edit#slide=id.g101c92d0b50_0_22
 
